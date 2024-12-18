@@ -1,2 +1,2 @@
 1: 
-	python './Day 1/main.py'
+	python './Day_1/main.py'
