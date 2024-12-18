@@ -1,6 +1,6 @@
 import os
 
-file = open("./Day 1/1.txt", "r")
+file = open("./Day_1/1.txt", "r")
 
 col1 = []
 col2 = []
